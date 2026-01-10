@@ -3,7 +3,7 @@
 **PneumoDetect** is a Deep Learning system to **detect pneumonia from chest X-ray images** using CNNs.  
 It classifies X-rays as **Normal** or **Pneumonia** to assist doctors in faster diagnosis.
 
---
+---
 
 ## Features
 - Detects pneumonia automatically from chest X-rays  

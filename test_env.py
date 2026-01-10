@@ -5,4 +5,4 @@ import numpy as np
 import matplotlib.pyplot as plt
 from pytorch_grad_cam import GradCAM
 
-print("✅ Virtual environment & dependencies are working")
+print("Virtual environment & dependencies are working")

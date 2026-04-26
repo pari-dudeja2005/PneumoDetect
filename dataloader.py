@@ -31,6 +31,6 @@ test_loader  = DataLoader(test_dataset, batch_size=batch_size, shuffle=False, nu
 
 if __name__ == "__main__":
     images, labels = next(iter(train_loader))
-    print("✅ Train batch shape:", images.shape)
-    print("✅ Labels batch shape:", labels.shape)
+    print("Train batch shape:", images.shape)
+    print("Labels batch shape:", labels.shape)
 
